@@ -59,7 +59,11 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
-<img width="1346" height="913" alt="image" src="https://github.com/user-attachments/assets/923c9284-edf7-43b1-a799-e340ff101fed" />
+<img width="901" height="611" alt="image" src="https://github.com/user-attachments/assets/93c7e7cf-1623-430d-8728-03f3ce80e20a" />
+<img width="959" height="615" alt="image" src="https://github.com/user-attachments/assets/84e8fd92-2142-4e8d-8672-f01d930700c5" />
+<img width="893" height="590" alt="image" src="https://github.com/user-attachments/assets/38b2009d-cc2a-4dec-8975-9901d46241c7" />
+<img width="1025" height="737" alt="image" src="https://github.com/user-attachments/assets/dbec0b20-3060-45c4-a2bb-24b5347be74e" />
+<img width="1637" height="858" alt="image" src="https://github.com/user-attachments/assets/e02e6e37-c86f-4d35-81ed-7c69d8aec9da" />
 
 ### Name: Rithesh S
 ### Register Number:212225220084
